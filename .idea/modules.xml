@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/nio-leaning.iml" filepath="$PROJECT_DIR$/nio-leaning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-leaning.iml" filepath="$PROJECT_DIR$/netty-leaning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-leaning.iml" filepath="$PROJECT_DIR$/netty-leaning.iml" />
     </modules>
   </component>
 </project>
