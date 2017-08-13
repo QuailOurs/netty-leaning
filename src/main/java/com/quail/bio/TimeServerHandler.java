@@ -8,7 +8,7 @@
   Date: 2017-07-10 12:07:89
   Description: 
 *************************************************/
-package main.java.com.quail.bio;
+package com.quail.bio;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -8,7 +8,7 @@
   Date: 2017-07-10 13:07:08
   Description: 
 *************************************************/
-package main.java.com.quail.bio;
+package com.quail.bio;
 
 import java.io.IOException;
 import java.net.ServerSocket;
